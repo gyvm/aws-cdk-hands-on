@@ -1,4 +1,6 @@
-
+# Reference:
+AWS CDK Intro Workshop > Python ワークショップ
+- https://summit-online-japan-cdk.workshop.aws/30-python.html
 # Welcome to your CDK Python project!
 
 This is a blank project for Python development with CDK.
